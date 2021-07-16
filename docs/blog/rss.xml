@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>李志华的博客 Blog</title>
+        <link>https://dear-lizhihua.github.io/blog/docs/blog/blog</link>
+        <description>李志华的博客 Blog</description>
+        <lastBuildDate>Sat, 05 Jun 2021 17:09:04 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[更新日志]]></title>
+            <link>https://dear-lizhihua.github.io/blog/docs/blog/blog/change-log</link>
+            <guid>change-log</guid>
+            <pubDate>Sat, 05 Jun 2021 17:09:04 GMT</pubDate>
+            <description><![CDATA[这里列出近期更新的文章（倒序排列）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://dear-lizhihua.github.io/blog/docs/blog/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Sat, 05 Jun 2021 14:56:31 GMT</pubDate>
+            <description><![CDATA[记录一些做过的项目]]></description>
+        </item>
+        <item>
+            <title><![CDATA[转码工具-货币转换]]></title>
+            <link>https://dear-lizhihua.github.io/blog/docs/blog/blog/exchange</link>
+            <guid>exchange</guid>
+            <pubDate>Sat, 05 Jun 2021 14:56:31 GMT</pubDate>
+            <description><![CDATA[介绍]]></description>
+        </item>
+    </channel>
+</rss>
